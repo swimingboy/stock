@@ -3,3 +3,4 @@
 __author__ = 'linghang'
 
 import os
+os.getcwd()
